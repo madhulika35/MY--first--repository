@@ -1,0 +1,5 @@
+Devops = Development + operations
+it's a culture + set of practices + told that help
+   . Developers: who write code
+   . Operations: who deploy/manage systems
+work together, instead of working silos
