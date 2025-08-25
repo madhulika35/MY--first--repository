@@ -2,4 +2,10 @@ Devops = Development + operations
 it's a culture + set of practices + told that help
    . Developers: who write code
    . Operations: who deploy/manage systems
+
 work together, instead of working silos
+Real  time Examples:
+ Imagine you're building a mobile app like Swiggy
+      . The developers writes codes to add "Track My Orders" features
+      . Without DevOps: Developers gives code to Ops team+ they manually deploy+ bugs happens+ delays
+      . With DevOps: Code is automatically tested and deployed+ customers get updates faster and safety
